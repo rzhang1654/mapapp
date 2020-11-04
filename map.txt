@@ -1,2 +1,3 @@
 this is a map application
 user2 added new york
+user3 added michigan
